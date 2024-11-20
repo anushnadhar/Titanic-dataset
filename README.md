@@ -16,6 +16,14 @@ This dataset is commonly used for classification tasks, feature engineering, and
 * Detect anomalies or missing data, which could affect analysis outcomes.
 * Visualize relationships between variables using plots.
 
+## How to Use
+
+To view the visualization, follow these steps:
+1. Download the Tableau workbook from the repository.
+2. Open Tableau Desktop or Tableau Public.
+3. Open the downloaded workbook to interact with the visualization.
+
+   
 ## Findings and Insights
 
 -**Survival Proportions:**
